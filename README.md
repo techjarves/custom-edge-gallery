@@ -32,7 +32,7 @@ Because the server perfectly mimics the standard OpenAI API structure (`/v1/mode
 
 You don't need to build this from source! 
 
-👉 **[Download the Latest Release APK Here](https://github.com/your-username/custom-edge-gallery/releases/latest)** *(Link will be active once the release is published)*
+👉 **[Download the Latest Release APK Here](https://github.com/techjarves/custom-edge-gallery/releases/download/first/app-release.apk)**
 
 Simply download the APK, install it on your Android device, download a model from the list, and turn the server on.
 
