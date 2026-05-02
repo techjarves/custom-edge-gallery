@@ -4,6 +4,11 @@ Welcome to **Mobile Server**! This project turns any modern Android phone into a
 
 > **Note:** This project was built by forking the incredible [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery). We took their powerful on-device inference engine and extended it with a built-in Ktor server and tunneling capabilities!
 
+**🎥 Watch the Setup & Demo Video:** [https://youtu.be/9Dh3kKWFFjg](https://youtu.be/43oZPoQiqoY)
+
+[![Turn Your Android Into Private AI Server](https://img.youtube.com/vi/43oZPoQiqoY/maxresdefault.jpg)](https://youtu.be/43oZPoQiqoY)
+
+
 ---
 
 ## 🚀 What Does This Do?
